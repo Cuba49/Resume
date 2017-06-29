@@ -1,0 +1,10 @@
+C:\Users\CUBA\Desktop\Новая папка\All\AddMatrix\bin\Release\AddMatrix.exe.config
+C:\Users\CUBA\Desktop\Новая папка\All\AddMatrix\bin\Release\AddMatrix.exe
+C:\Users\CUBA\Desktop\Новая папка\All\AddMatrix\bin\Release\AddMatrix.pdb
+C:\Users\CUBA\Desktop\Новая папка\All\AddMatrix\obj\Release\AddMatrix.Form1.resources
+C:\Users\CUBA\Desktop\Новая папка\All\AddMatrix\obj\Release\AddMatrix.Properties.Resources.resources
+C:\Users\CUBA\Desktop\Новая папка\All\AddMatrix\obj\Release\AddMatrix.Result.resources
+C:\Users\CUBA\Desktop\Новая папка\All\AddMatrix\obj\Release\AddMatrix.csproj.GenerateResource.Cache
+C:\Users\CUBA\Desktop\Новая папка\All\AddMatrix\obj\Release\AddMatrix.exe
+C:\Users\CUBA\Desktop\Новая папка\All\AddMatrix\obj\Release\AddMatrix.pdb
+C:\Users\CUBA\Desktop\Новая папка\All\AddMatrix\obj\Release\AddMatrix.csprojResolveAssemblyReference.cache

@@ -1,0 +1,39 @@
+C:\Users\CUBA\Desktop\AddMatrix\AddMatrix\bin\Debug\AddMatrix.exe.config
+C:\Users\CUBA\Desktop\AddMatrix\AddMatrix\obj\Debug\AddMatrix.csprojResolveAssemblyReference.cache
+C:\Users\CUBA\Desktop\AddMatrix\AddMatrix\obj\Debug\AddMatrix.Form1.resources
+C:\Users\CUBA\Desktop\AddMatrix\AddMatrix\obj\Debug\AddMatrix.Properties.Resources.resources
+C:\Users\CUBA\Desktop\AddMatrix\AddMatrix\obj\Debug\AddMatrix.csproj.GenerateResource.Cache
+C:\Users\CUBA\Desktop\AddMatrix\AddMatrix\bin\Debug\AddMatrix.exe
+C:\Users\CUBA\Desktop\AddMatrix\AddMatrix\bin\Debug\AddMatrix.pdb
+C:\Users\CUBA\Desktop\AddMatrix\AddMatrix\obj\Debug\AddMatrix.exe
+C:\Users\CUBA\Desktop\AddMatrix\AddMatrix\obj\Debug\AddMatrix.pdb
+C:\Users\KUBA_NOTE\Desktop\AddMatrix\AddMatrix\bin\Debug\AddMatrix.exe.config
+C:\Users\KUBA_NOTE\Desktop\AddMatrix\AddMatrix\obj\Debug\AddMatrix.exe
+C:\Users\KUBA_NOTE\Desktop\AddMatrix\AddMatrix\obj\Debug\AddMatrix.pdb
+C:\Users\KUBA_NOTE\Desktop\AddMatrix\AddMatrix\bin\Debug\AddMatrix.exe
+C:\Users\KUBA_NOTE\Desktop\AddMatrix\AddMatrix\bin\Debug\AddMatrix.pdb
+C:\Users\KUBA_NOTE\Desktop\AddMatrix\AddMatrix\obj\Debug\AddMatrix.csprojResolveAssemblyReference.cache
+C:\Users\KUBA_NOTE\Desktop\AddMatrix\AddMatrix\obj\Debug\AddMatrix.Form1.resources
+C:\Users\KUBA_NOTE\Desktop\AddMatrix\AddMatrix\obj\Debug\AddMatrix.Properties.Resources.resources
+C:\Users\KUBA_NOTE\Desktop\AddMatrix\AddMatrix\obj\Debug\AddMatrix.csproj.GenerateResource.Cache
+C:\Users\KUBA_NOTE\Desktop\AddMatrix\AddMatrix\obj\Debug\AddMatrix.Result.resources
+C:\Users\CUBA\Desktop\Новая папка\AddMatrix\AddMatrix\bin\Debug\AddMatrix.exe.config
+C:\Users\CUBA\Desktop\Новая папка\AddMatrix\AddMatrix\obj\Debug\AddMatrix.exe
+C:\Users\CUBA\Desktop\Новая папка\AddMatrix\AddMatrix\obj\Debug\AddMatrix.pdb
+C:\Users\CUBA\Desktop\Новая папка\All\AddMatrix\bin\Debug\AddMatrix.exe.config
+C:\Users\CUBA\Desktop\Новая папка\All\AddMatrix\obj\Debug\AddMatrix.exe
+C:\Users\CUBA\Desktop\Новая папка\All\AddMatrix\obj\Debug\AddMatrix.pdb
+C:\Users\CUBA\Desktop\Новая папка\All\AddMatrix\obj\Debug\AddMatrix.csprojResolveAssemblyReference.cache
+C:\Users\KUBA_NOTE\Desktop\MustWork\AddMatrix\bin\Debug\AddMatrix.exe.config
+C:\Users\KUBA_NOTE\Desktop\MustWork\AddMatrix\obj\Debug\AddMatrix.exe
+C:\Users\KUBA_NOTE\Desktop\MustWork\AddMatrix\obj\Debug\AddMatrix.pdb
+C:\Users\KUBA_NOTE\Desktop\MustWork\AddMatrix\bin\Debug\AddMatrix.exe
+C:\Users\KUBA_NOTE\Desktop\MustWork\AddMatrix\bin\Debug\AddMatrix.pdb
+C:\Users\KUBA_NOTE\Desktop\MustWork\AddMatrix\obj\Debug\AddMatrix.csprojResolveAssemblyReference.cache
+C:\Users\KUBA_NOTE\Desktop\MustWork\AddMatrix\obj\Debug\AddMatrix.Form1.resources
+C:\Users\KUBA_NOTE\Desktop\MustWork\AddMatrix\obj\Debug\AddMatrix.Properties.Resources.resources
+C:\Users\KUBA_NOTE\Desktop\MustWork\AddMatrix\obj\Debug\AddMatrix.Result.resources
+C:\Users\KUBA_NOTE\Desktop\MustWork\AddMatrix\obj\Debug\AddMatrix.csproj.GenerateResource.Cache
+C:\Users\KUBA_NOTE\Desktop\Paralel\AddMatrixParalel\AddMatrix\bin\Debug\AddMatrix.exe.config
+C:\Users\KUBA_NOTE\Desktop\Paralel\AddMatrixParalel\AddMatrix\obj\Debug\AddMatrix.exe
+C:\Users\KUBA_NOTE\Desktop\Paralel\AddMatrixParalel\AddMatrix\obj\Debug\AddMatrix.pdb

@@ -1,0 +1,9 @@
+C:\Users\KUBA_NOTE\Desktop\Paralel\MultiplyMatrixParalel\AddMatrix\bin\Debug\AddMatrix.exe.config
+C:\Users\KUBA_NOTE\Desktop\Paralel\MultiplyMatrixParalel\AddMatrix\obj\Debug\AddMatrix.exe
+C:\Users\KUBA_NOTE\Desktop\Paralel\MultiplyMatrixParalel\AddMatrix\obj\Debug\AddMatrix.pdb
+C:\Users\KUBA_NOTE\Desktop\Paralel\MultiplyMatrixParalel\AddMatrix\bin\Debug\AddMatrix.exe
+C:\Users\KUBA_NOTE\Desktop\Paralel\MultiplyMatrixParalel\AddMatrix\bin\Debug\AddMatrix.pdb
+C:\Users\KUBA_NOTE\Desktop\Paralel\MultiplyMatrixParalel\AddMatrix\obj\Debug\AddMatrix.Form1.resources
+C:\Users\KUBA_NOTE\Desktop\Paralel\MultiplyMatrixParalel\AddMatrix\obj\Debug\AddMatrix.Properties.Resources.resources
+C:\Users\KUBA_NOTE\Desktop\Paralel\MultiplyMatrixParalel\AddMatrix\obj\Debug\AddMatrix.Result.resources
+C:\Users\KUBA_NOTE\Desktop\Paralel\MultiplyMatrixParalel\AddMatrix\obj\Debug\MultiplyMatrix.csproj.GenerateResource.Cache
